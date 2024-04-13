@@ -4,6 +4,12 @@ Record podcast with Riverside.
 
 # 2. Edit
 
+Set Edit Title
+- Foo Bar, Organizer, Rejuvenation Olympics
+- Foo Bar, 7th Place, Rejuvenation Olympics
+- Foo Bar, 7th Place, Rejuvenation Olympics (Relative Leaderboard)
+- Foo Bar, Team: Buz, Rejuvenation Olympics
+
 ## Special Request
 
 Before starting to edit, have a 3 days buffer: do not start editing for 3 days. Maybe a guest will have a special request regarding the content.
@@ -42,11 +48,7 @@ fix typos
 
 Publish on X and YT
 
-Title: todo
-- Foo Bar, Rejuvenation Olympics Organizer
-- Foo Bar, Rejuvenation Olympics Sponsor
-- Foo Bar, Rejuvenation Olympics 11th Place
-- Foo Bar, Rejuvenation Olympics 11th (Relative)
+Title: same as edit title
 
 send to guest in private
 
