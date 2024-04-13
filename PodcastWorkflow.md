@@ -22,7 +22,7 @@ Set layout to picture in picture.
 
 1. Set pace to natural
 2. Check the removed parts and restore where there's dramatic effect
-blabla
+
 ## Start and End
 
 1. Edit the first 5 minutes and the last 5 minutes heavily.
