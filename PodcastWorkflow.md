@@ -42,7 +42,9 @@ fix typos
 
 Publish on X and YT
 Title: Rejuvenation Olympics - [organizer/athlete] #7 (Relative) ??
+send to guest in private
 
 ### Short Clips
 
 Schedule the publishing to X, YT and TT
+tag guests when you can
