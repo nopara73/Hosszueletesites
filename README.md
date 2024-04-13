@@ -1,1 +1,1 @@
-# Hosszueletesites
+# Hosszúéletesítés
