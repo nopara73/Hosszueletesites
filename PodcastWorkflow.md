@@ -20,14 +20,14 @@ Set layout to picture in picture.
 
 ## Pace
 
-1. Set pace to natural
-2. Check the removed parts and restore where there's dramatic effect
+0. Set pace to natural
+0. Check the removed parts and restore where there's dramatic effect
 
 ## Start and End
 
-1. Edit the first 5 minutes and the last 5 minutes heavily.
-2. If the natural hook is not good enough for the start of the episode, to create an open loop, copy a suitable part of the conversation to start off with
-3. Add few second intro and outro (Gymnopédie remix) after the first segment and at the end. The first segment is either the copied open loop or the first question and answer. Note it sometimes could even take 10 minutes if the guest wishes to speak a lot about the first topic.
+0. Edit the first 5 minutes and the last 5 minutes heavily.
+0. If the natural hook is not good enough for the start of the episode, to create an open loop, copy a suitable part of the conversation to start off with
+0. Add few second intro and outro (Gymnopédie remix) after the first segment and at the end. The first segment is either the copied open loop or the first question and answer. Note it sometimes could even take 10 minutes if the guest wishes to speak a lot about the first topic.
 
 ### ?
 
