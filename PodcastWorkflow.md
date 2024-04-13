@@ -41,7 +41,13 @@ fix typos
 ### Long Video
 
 Publish on X and YT
-Title: Rejuvenation Olympics - [organizer/athlete] #7 (Relative) ??
+
+Title: todo
+- Foo Bar, Rejuvenation Olympics Organizer
+- Foo Bar, Rejuvenation Olympics Sponsor
+- Foo Bar, Rejuvenation Olympics 11th Place
+- Foo Bar, Rejuvenation Olympics 11th (Relative)
+
 send to guest in private
 
 ### Short Clips
