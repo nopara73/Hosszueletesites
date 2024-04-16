@@ -52,9 +52,13 @@ send to guest in private
 
 Publish on X and YT
 
+Create thumbnail for YouTube: generate variations for Wanderer above the Sea of Fog; add text overlay
+Size: 1280x720
 Title: same as edit title
 
 ### Short Clips
 
-Schedule the publishing to X, YT and TT
+Create thumbnail for TT (YT Shorts don't have thumbnails)
+Size: 1080x1920
+Schedule the publishing to X, YTShorts and TT
 tag guests when you can
