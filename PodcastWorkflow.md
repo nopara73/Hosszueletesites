@@ -22,9 +22,9 @@ Set layout to picture in picture.
 
 0. Set pace to fast
 0. Edit the first 5 minutes and the last 5 minutes heavily.
-0. Manual check through the whole episode for: removed dramatic pauses, cuts made at the wrong time and grammar check (in the transcript you can fix often misspelled words with a one time change)
-0. Pay attention for interesting topics around the 1 minute mark (no longer)
-0. Add few second intro and outro (Gymnopédie remix) The first segment is either the copied open loop or the first question and answer. Note it sometimes could even take 10 minutes if the guest wishes to speak a lot about the first topic. NACK: I think after 10 minutes you shouldn't play an intro. it would break the viewing experience for those who already watched it for 10 minutes. Play it in the first 90 seconds of the episode.
+0. Manual check through the whole episode for: removed dramatic pauses, cuts made at the wrong time, repetition (guest realises he said something wrong and corrects himself) and grammar check (in the transcript you can fix often misspelled words with a one time change)
+0. Pay attention for interesting topics around 1 minute in length
+0. Add intro and outro (Gymnopédie remix) The first segment is either the copied open loop or the first question and answer. Note it sometimes could even take 10 minutes if the guest wishes to speak a lot about the first topic. NACK: I think after 10 minutes you shouldn't play an intro. it would break the viewing experience for those who already watched it for 10 minutes. Play it in the first 90 seconds of the episode.
 
 ## Sidenotes
 
@@ -38,7 +38,7 @@ AI Timestamps, AI Show notes, transcript .srt version
 ## Short Clips
 
 is this an opportunity for editing?
-do not publish bullshit, 73 needs to approve? - Magic clips are bullshit so this needs to be done manually (step 4 of PACE)
+do not publish bullshit, 73 needs to approve? - Magic clips are bullshit so this needs to be done manually (step no.3 of PACE)
 
 layout
 text
@@ -48,11 +48,11 @@ fix typos
 
 ### Long Video
 
+send to guest in private
+
 Publish on X and YT
 
 Title: same as edit title
-
-send to guest in private
 
 ### Short Clips
 
