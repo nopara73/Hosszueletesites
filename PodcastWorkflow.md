@@ -56,6 +56,8 @@ Create thumbnail for YouTube: generate variations for Wanderer above the Sea of 
 Size: 1280x720
 Title: same as edit title
 
+Submit to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
+
 ### Short Clips
 
 Create thumbnail for TT (YT Shorts don't have thumbnails)
