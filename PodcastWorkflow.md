@@ -71,6 +71,7 @@ Size: 1280x720
 Title: same as edit title
 
 Submit to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
+Submit to official forum thread: https://rejuvenationolympics.com/topic/rejuvenation-olympics-interviews-with-athletes-and-organizers/ (make sure to skip the https protocol spec, otherwise link will be broken)
 
 ### Short Clips
 
