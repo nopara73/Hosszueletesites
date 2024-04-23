@@ -31,6 +31,11 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. If the natural hook is not good enough for the start of the episode, to create an open loop, copy a suitable part of the conversation to start off with
 0. Add intro and outro (Gymnopédie remix)
 0. Export
+   - 16:9 aspect ratio (YT)
+   - 2160p 4k
+   - normalize audio
+   - remove background noise
+   - remove watermark
 0. Generate AI shownotes
 
 ## Generate Magic Clips
@@ -56,7 +61,12 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. Heavily edit every second of the short clips
 0. Try to make sure the short clip is under 1 second
 0. Fix typos in transcript
-0. Export in aspect ratios 9:16 (YT + TT) and 1:1 (X)
+0. Export
+   - in aspect ratios 9:16 (YT + TT) and 1:1 (X)
+   - 2160p 4k
+   - normalize audio
+   - remove background noise
+   - remove watermark
 
 # 3. Publish
 
