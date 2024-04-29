@@ -85,7 +85,20 @@ Title: same as edit title
 
 ### Short Clips
 
-Create thumbnail for TT (YT Shorts don't have thumbnails)
-Size: 1080x1920
-Schedule the publishing to X, YTShorts and TT
-tag guests when you can
+0. If short is <1m, publish to YT, TT, X. If short is >1m, only publish to TT and X, because YT won't recognize it as a short.
+0. Aspect ratios for YT and TT is 9:16, for X is 1:1
+0. Upload
+0. Figure out a title
+   - On TT and X use #longevity
+   - On TT and X reference the guest's accounts
+0. On X
+   - Change quality to 1080p
+0. On TT
+   - Choose the most expressive cover
+   - Adjust cover to speaker's full face
+0. On YT
+   - Mark "content not altered"
+   - Add the long video as "related video"
+0. Publish
+0. For TT (https://www.tiktok.com/@nopara73) and X (https://twitter.com/nopara73/) comment links to the (https://www.youtube.com/@nopara73/videos) `Full Discussion: `
+0. If some short does especially well, notify the guest
