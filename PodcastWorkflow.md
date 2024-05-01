@@ -63,7 +63,7 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. Fix typos in transcript
 0. Export
    - in aspect ratios 9:16 (YT + TT) and 1:1 (X)
-   - 2160p 4k
+   - 2160p 4k (YT + TT) and 1080p HD (X)
    - normalize audio
    - remove background noise
    - remove watermark
@@ -87,12 +87,10 @@ Title: same as edit title
 
 0. If short is <1m, publish to YT, TT, X. If short is >1m, only publish to TT and X, because YT won't recognize it as a short.
 0. Aspect ratios for YT and TT is 9:16, for X is 1:1
-0. Upload
+0. Upload (On X change quality to 1080p)
 0. Figure out a title
    - On TT and X use #longevity
    - On TT and X reference the guest's accounts
-0. On X
-   - Change quality to 1080p
 0. On TT
    - Choose the most expressive cover
    - Adjust cover to speaker's full face
