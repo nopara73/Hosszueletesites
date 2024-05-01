@@ -99,4 +99,5 @@ Title: same as edit title
    - Add the long video as "related video"
 0. Publish
 0. For TT (https://www.tiktok.com/@nopara73) and X (https://twitter.com/nopara73/) comment links to the (https://www.youtube.com/@nopara73/videos) `Full Discussion: `
+0. If the message is especially important, throw a cheap promotion on it
 0. If some short does especially well, notify the guest
