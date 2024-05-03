@@ -78,10 +78,18 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. Upload (On X change quality to 1080p)
 0. Use Edit Title
    - On X add #longevity and reference the guest's accounts
+0. On X
+   - Upload .srt
 0. On YT
+   - Take relevant parts from shownotes
+   - Upload Thumbnail
+   - Select Playlist
    - Mark "content not altered"
-   - Add to playlist
+   - Upload .srt
+   - Add endscreen: select first
+   - Set Premiere
 0. Publish
+0. Comment YT under X
 0. If possible, throw a cheap promotion on it
 0. Post to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
 0. Post to official forum thread: https://rejuvenationolympics.com/topic/rejuvenation-olympics-interviews-with-athletes-and-organizers/ (make sure to skip the https protocol spec, otherwise link will be broken)
