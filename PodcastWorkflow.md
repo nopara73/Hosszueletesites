@@ -36,6 +36,7 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
    - normalize audio
    - remove background noise
    - remove watermark
+0. Create Thumbnail for YT
 0. Generate AI shownotes
 
 ## Generate Magic Clips
@@ -72,16 +73,19 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 
 ### Long Video
 
-send to guest in private
-
-Publish on X and YT
-
-Create thumbnail for YouTube: generate variations for Wanderer above the Sea of Fog; add text overlay
-Size: 1280x720
-Title: same as edit title
-
-- Post to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
-- Post to official forum thread: https://rejuvenationolympics.com/topic/rejuvenation-olympics-interviews-with-athletes-and-organizers/ (make sure to skip the https protocol spec, otherwise link will be broken)
+0. Publish to YT and X
+0. Aspect ratios for YT is 16:9, for X is 1:1
+0. Upload (On X change quality to 1080p)
+0. Use Edit Title
+   - On X add #longevity and reference the guest's accounts
+0. On YT
+   - Mark "content not altered"
+   - Add to playlist
+0. Publish
+0. If possible, throw a cheap promotion on it
+0. Post to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
+0. Post to official forum thread: https://rejuvenationolympics.com/topic/rejuvenation-olympics-interviews-with-athletes-and-organizers/ (make sure to skip the https protocol spec, otherwise link will be broken)
+0. Notify the guest
 
 ### Short Clips
 
