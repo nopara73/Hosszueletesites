@@ -92,7 +92,6 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. Comment YT under X
 0. If possible, throw a cheap promotion on it
 0. Post to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
-0. Post to official forum thread: https://rejuvenationolympics.com/topic/rejuvenation-olympics-interviews-with-athletes-and-organizers/ (make sure to skip the https protocol spec, otherwise link will be broken)
 0. Notify the guest
 
 ### Short Clips
