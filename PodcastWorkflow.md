@@ -20,7 +20,9 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 ## Editor Workflow
 
 0. Set layout to picture in picture.
-0. Set pace to fast
+0. Use magic tool: Set Pace (Fast)
+0. Use magic tool: Smooth Speech
+0. Use magic tool: Magic Audio
 0. Edit the first 5 minutes and the last 5 minutes heavily
 0. Manual check through the whole episode around the magic cuts:
    - restore dramatic pauses those were removed by magic editor
