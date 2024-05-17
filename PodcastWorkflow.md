@@ -22,7 +22,6 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. Set layout to picture in picture.
 0. Use magic tool: Set Pace (Fast)
 0. Use magic tool: Smooth Speech
-0. Use magic tool: Magic Audio
 0. Edit the first 5 minutes and the last 5 minutes heavily
 0. Manual check through the whole episode around the magic cuts:
    - restore dramatic pauses those were removed by magic editor
@@ -33,7 +32,7 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. If the natural hook is not good enough for the start of the episode, to create an open loop, copy a suitable part of the conversation to start off with
 0. Add intro and outro (Gymnopédie remix)
 0. Export
-   - 16:9 aspect ratio (YT)
+   - 16:9 aspect ratio (YT) (also export 1:1 version for TW)
    - 2160p 4k
    - normalize audio
    - remove background noise
