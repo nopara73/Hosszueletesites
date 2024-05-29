@@ -55,7 +55,9 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. Find short clips by
    - reviewing magic clips
    - reviewing notes of interesting parts (collected during editing)
-   - Give transcript to ChatGPT and ask for suggestions: `Here's a transcript of a podcast episode. Highlight the most emotionally charged segments those would do well in publishing as short clips. Suggest 3 alternative titles for each as well.`
+   - Give transcript to ChatGPT and ask for suggestions:
+      - PROMPT 1: `Here's a transcript of a podcast episode. Highlight the most emotionally charged segments those would do well in publishing as short clips. Suggest 3 alternative titles for each as well.`
+      - PROMPT 2: `Highlight the funniest segments`
   
 ### Editing
 
