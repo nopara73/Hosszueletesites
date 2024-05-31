@@ -48,7 +48,7 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 
 0. Take the original edit and
    - Set pace to very fast
-   - Set layout to grid
+   - Set layout to Full screen
    - Add captions
    - Set aspect ratio to 9:16 (YT + TT)
    - Save for creating short clips from
