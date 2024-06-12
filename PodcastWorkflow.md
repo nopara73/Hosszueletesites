@@ -32,7 +32,7 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. If the natural hook is not good enough for the start of the episode, to create an open loop, copy a suitable part of the conversation to start off with
 0. Add intro and outro (Gymnopédie remix)
 0. Export
-   - 16:9 aspect ratio (YT) (also export 1:1 version for TW)
+   - 16:9 aspect ratio (YT)
    - 2160p 4k
    - normalize audio
    - remove background noise
@@ -77,8 +77,8 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 ### Long Video
 
 0. Publish to YT and X
-0. Aspect ratios for YT is 16:9, for X is 1:1
-0. Upload (On X change quality to 1080p)
+0. Aspect ratios for YT is 16:9
+0. Upload to YT
 0. Use Edit Title
    - On X add #longevity and reference the guest's accounts
 0. On X
@@ -92,6 +92,7 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
    - Add endscreen: select first
    - Set Premiere
 0. Publish
+0. Publish Thumbnail to X `Link to Full Discussion:👇`
 0. Comment YT under X
 0. If possible, throw a cheap promotion on it
 0. Post to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
