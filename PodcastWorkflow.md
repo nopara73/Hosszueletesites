@@ -40,37 +40,9 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 0. Create Thumbnail for YT
 0. Generate AI shownotes
 
-## Generate Magic Clips
-
 ## Short Clips
 
-### Preparation
-
-0. Take the original edit and
-   - Set pace to very fast
-   - Set layout to Full screen
-   - Add captions
-   - Set aspect ratio to 9:16 (YT + TT)
-   - Save for creating short clips from
-0. Find short clips by
-   - reviewing magic clips
-   - reviewing notes of interesting parts (collected during editing)
-   - Give transcript to ChatGPT and ask for suggestions:
-      - PROMPT 1: `Here's a transcript of a podcast episode. Highlight the most emotionally charged segments those would do well in publishing as short clips. Suggest 3 alternative titles for each as well.`
-      - PROMPT 2: `Highlight the funniest segments`
-  
-### Editing
-
-0. Cut approximate start and end.
-0. Heavily edit every second of the short clips
-0. Try to make sure the short clip is under 1 second
-0. Fix typos in transcript
-0. Export
-   - in aspect ratios 9:16 (YT + TT) and 1:1 (X)
-   - 2160p 4k (YT + TT) and 1080p HD (X)
-   - normalize audio
-   - remove background noise
-   - remove watermark
+Generate <60s clips with Opus Clips. 
 
 # 3. Publish
 
@@ -100,19 +72,4 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 
 ### Short Clips
 
-0. If short is <1m, publish to YT, TT, X. If short is >1m, only publish to TT and X, because YT won't recognize it as a short.
-0. Aspect ratios for YT and TT is 9:16, for X is 1:1
-0. Upload (On X change quality to 1080p)
-0. Figure out a title
-   - On TT and X use #longevity
-   - On TT and X reference the guest's accounts
-0. On TT
-   - Choose the most expressive cover
-   - Adjust cover to speaker's full face
-0. On YT
-   - Mark "content not altered"
-   - Add the long video as "related video"
-0. Publish
-0. For TT (https://www.tiktok.com/@nopara73) and X (https://twitter.com/nopara73/) comment links to the (https://www.youtube.com/@nopara73/videos) `Full Discussion: `
-0. If the message is especially important, throw a cheap promotion on it
-0. If some short does especially well, notify the guest
+After Opus Clips generated a bunch, schedule the best ones into the future to all platforms connected.
