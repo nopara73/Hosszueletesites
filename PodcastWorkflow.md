@@ -64,7 +64,7 @@ Generate <60s clips with Opus Clips.
    - Add endscreen: select first
    - Set Premiere
 0. Publish
-0. Publish Thumbnail to X `Link to Full Discussion:👇`
+0. Publish Thumbnail to X `First Comment Links to Full Discussion👇`
 0. Comment YT under X
 0. If possible, throw a cheap promotion on it
 0. Post to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
