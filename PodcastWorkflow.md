@@ -73,3 +73,5 @@ Generate <60s clips with Opus Clips.
 ### Short Clips
 
 After Opus Clips generated a bunch, schedule the best ones into the future to all platforms connected.
+
+The schedule should follow a prime number series: `1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73` (ok, ok, I know 1 is not a prime, come on)
