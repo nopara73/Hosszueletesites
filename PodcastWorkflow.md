@@ -72,8 +72,6 @@ Generate <60s clips with Opus Clips.
 
 ### Short Clips
 
-After Opus Clips generated a bunch, schedule the best ones into the future to all platforms connected.
-
 0. Generate clips from 0 - 59 seconds. This'll take a while, check back tomorrow.
 1. The schedule should follow a prime number series. PROMPT: `List all dates corresponding to prime-th days starting from yesterday (where yesterday was day 1) up to the 21st prime day.`
 2. Listen to all the generated clips and mark with a like what you want to publish.
