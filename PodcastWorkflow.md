@@ -69,10 +69,10 @@ Generate <60s clips with Opus Clips.
 0. If possible, throw a cheap promotion on it
 0. Post to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
 0. Notify the guest
+0. Generate clips from 0 - 59 seconds: https://clip.opus.pro/dashboard
 
 ### Short Clips
 
-0. Generate clips from 0 - 59 seconds. This'll take a while, check back tomorrow.
 1. The schedule should follow a prime number series. PROMPT: `List all dates corresponding to prime-th days starting from yesterday (where yesterday was day 1) up to the 21st prime day.`
 2. Listen to all the generated clips and mark with a like what you want to publish.
 3. Count the number of liked shorts and load the video list page into that many new tabs. Then open the edit tab of each video. There, in each video start generating an AI B-Roll at the same time. When finished, go through them and click "Save changes"
