@@ -53,6 +53,7 @@ Generate <60s clips with Opus Clips.
 0. Upload to YT
 0. Use Edit Title
    - On X add #longevity and reference the guest's accounts
+   - On YT, if guest has a channel, then reference it in the title
 0. On X
    - Upload .srt
 0. On YT
