@@ -75,7 +75,7 @@ Generate <60s clips with Opus Clips.
 ### Short Clips
 
 1. The schedule should follow a prime number series. PROMPT: `List all dates corresponding to prime-th days starting from yesterday (where yesterday was day 1) up to the 21st prime day.`
-2. Listen to all the generated clips and mark with a like what you want to publish.
+2. Listen to all the generated clips and mark with a like what you want to publish. Go from bottom to top.
 3. Count the number of liked shorts and load the video list page into that many new tabs. Then open the edit tab of each video. There, in each video start generating an AI B-Roll at the same time. When AI B-Roll fails, do stock photo B-Roll When finished, go through them and click "Save changes"
 4. Start scheduling. The AI titles, descriptions and hashtags are cringe AF.
    - If by any chance an AI title is good, then just remove the hashtags from Twitter, but don't bother with the rest.
