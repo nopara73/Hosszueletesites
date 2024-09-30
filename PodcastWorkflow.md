@@ -68,7 +68,7 @@ Generate <60s clips with Opus Clips.
 0. Publish Thumbnail to X `First Comment Links to Full Discussion👇`
 0. Comment YT under X
 0. If possible, throw a cheap promotion on it
-0. Post to subreddit: https://old.reddit.com/r/RejuvenationOlympics/
+0. Post to relevant subreddit: https://old.reddit.com/r/LongevityWorldCup/ and/or https://old.reddit.com/r/RejuvenationOlympics/
 0. Notify the guest
 0. Generate clips from 0 - 59 seconds: https://clip.opus.pro/dashboard
 
