@@ -48,7 +48,8 @@ Generate <60s clips with Opus Clips.
 
 ### Long Video
 
-0. Publish to YT and X
+0. Publish to YT: https://studio.youtube.com/
+0. Tweet about it: https://x.com/
 0. Aspect ratios for YT is 16:9
 0. Upload to YT
 0. Use Edit Title
