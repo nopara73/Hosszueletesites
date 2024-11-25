@@ -1,6 +1,6 @@
 # BronchoFlow
 
-Ever wondered how to abuse your fast acting bronchodialators you got for asthma? Wonder no more BronchoFlow is the solution! An experimental protocol for using bronchodilators for non-medical purposes like relaxation or recovery, designed to minimize risks such as overuse, side effects, or receptor desensitization.
+Ever wondered how to abuse your fast acting bronchodialator? Wonder no more BronchoFlow is the solution! An experimental protocol for using bronchodilators for non-medical purposes like relaxation or recovery, designed to minimize risks such as overuse, side effects, or receptor desensitization.
 
 ---
 
