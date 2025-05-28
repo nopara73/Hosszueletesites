@@ -12,10 +12,7 @@ Before starting to edit, have a 3 days buffer: do not start editing for 3 days. 
 
 ## Set Edit Title
 
-- Foo Bar, Organizer, Rejuvenation Olympics
 - Foo Bar, 7th Place, Rejuvenation Olympics
-- Foo Bar, 7th Place, Rejuvenation Olympics (Relative Leaderboard)
-- Foo Bar, Team: Buz, Rejuvenation Olympics
 
 ## Editor Workflow
 
